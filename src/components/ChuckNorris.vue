@@ -1,7 +1,7 @@
 <template>
   <div class="p-4 flex flex-col gap-y-8">
     <p class="text-xl">Chuck norris - random block</p>
-    <div class="grid grid-cols-2 gap-x-2">
+    <div class="grid md:grid-cols-2 sm:grid-cols-1 gap-x-2 gap-y-2">
       <div class="flex flex-col gap-y-4 p-2 border-2 rounded-md max-h-96 overflow-y-auto overflow-x-hidden">
         <div class="flex">
           <div class="flex flex-col">
